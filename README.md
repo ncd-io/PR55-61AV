@@ -1,4 +1,4 @@
-# PR55-61AV
+# PR55-81AV
 IoT Wireless Air Velocity Sensor 
 Make sure the PC has
 
